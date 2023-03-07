@@ -1,5 +1,5 @@
 # Tic-Tac-Typescript
-Basic implementation of a tic tac toe console app in TypeScript.
+Basic implementation of a tic tac toe console app in TypeScript (requires [Node.js](https://nodejs.org/)).
 
 
 ## To Install Dependencies
